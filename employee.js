@@ -9,7 +9,7 @@ class Employee {
 };
 
 const leo = new Employee('Leonardo', 90000, 'Ninja');
-console.log(leo)
+// console.log(leo)
 
 
 // module.exports = {                   //export option 1
